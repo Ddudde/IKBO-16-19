@@ -4,11 +4,11 @@
   <headerType>gui</headerType>
   <jar>F:\Desk\Rep\TiVPO\IKBO-16-19\prakt\build\libs\prakt-1.0.jar</jar>
   <outfile>F:\Desk\Rep\TiVPO\IKBO-16-19\prakt\exe\prakt.exe</outfile>
-  <errTitle>У вас нет JRE. Но ничего страшного. Я знаю точную сборку JRE, который осилит запуск моей программы:)</errTitle>
+  <errTitle>Error! Not installed JRE</errTitle>
   <cmdLine></cmdLine>
   <chdir></chdir>
   <priority>normal</priority>
-  <downloadUrl>https://github.com/ojdkbuild/ojdkbuild/releases/tag/java-11-openjdk-11.0.11.9-1</downloadUrl>
+  <downloadUrl>https://github.com/ojdkbuild/ojdkbuild/releases/download/java-17-openjdk-17.0.1.0.12-1/java-17-openjdk-17.0.1.0.12-1.jre.win.x86_64.msi</downloadUrl>
   <supportUrl>url</supportUrl>
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>

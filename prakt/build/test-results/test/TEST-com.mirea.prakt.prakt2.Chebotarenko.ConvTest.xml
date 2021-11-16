@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-11T19:03:24" hostname="DESKTOP-B05SD6G" time="0.326">
+<testsuite name="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-16T17:15:50" hostname="DESKTOP-B05SD6G" time="1.943">
   <properties/>
-  <testcase name="testletters()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.171"/>
-  <testcase name="testpredel()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.014"/>
-  <testcase name="testempty()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.023"/>
-  <testcase name="testInvalidEnterCcCheckMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.017"/>
-  <testcase name="testInvalidEnterInIn10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.02"/>
-  <testcase name="testIn10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.012"/>
-  <testcase name="testInvalidCcInFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.016"/>
-  <testcase name="testFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.012"/>
-  <testcase name="testInvalidEnterInFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.021"/>
+  <testcase name="testletters()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.202"/>
+  <testcase name="testpredel()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.375"/>
+  <testcase name="testempty()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.109"/>
+  <testcase name="testInvalidEnterCcCheckMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.227"/>
+  <testcase name="testInvalidEnterInIn10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.068"/>
+  <testcase name="testIn10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.343"/>
+  <testcase name="testInvalidCcInFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.099"/>
+  <testcase name="testFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.162"/>
+  <testcase name="testInvalidEnterInFrom10ccMethod()" classname="com.mirea.prakt.prakt2.Chebotarenko.ConvTest" time="0.141"/>
   <system-out><![CDATA[Введите первое число: 
 ?[31mError!?[0m
 ?[32m0?[0m
