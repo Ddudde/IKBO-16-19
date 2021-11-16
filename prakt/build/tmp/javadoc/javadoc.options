@@ -1,0 +1,17 @@
+-classpath 'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\build\\classes\\java\\main;F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\build\\resources\\main;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-fxml\\13\\ee55786ffd820bb7c8dd43d127a54b1141639e29\\javafx-fxml-13-win.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\13\\7524fd4ab57de51637adb0e99f0220a1ae0ae4dd\\javafx-controls-13-win.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-controls\\13\\6cd7169d2a729846c35fba9dc65af23a10ca253b\\javafx-controls-13.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-media\\13\\fbdd1014600563e9f8950f8ba3d52264966e5c7b\\javafx-media-13-win.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\13\\bbcbc616702a086567585183efcb0ab8eb22a66b\\javafx-graphics-13-win.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-graphics\\13\\a9407212df2b75d557a509ec14a9e8e282494b4e\\javafx-graphics-13.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\13\\6386f02a2b71d8b503c6ca3cd2d2dcb382ce86b4\\javafx-base-13-win.jar;C:\\Users\\DonJuan\\.gradle\\caches\\modules-2\\files-2.1\\org.openjfx\\javafx-base\\13\\43c52e1d11b38514e9d2421ad98ca6a35de12b0\\javafx-base-13.jar'
+-d 'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\build\\docs\\javadoc'
+-doctitle 'prakt 1.0 API'
+-encoding 'UTF-8'
+-notimestamp 
+-quiet 
+-windowtitle 'prakt 1.0 API'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\controller\\FinishGameController.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\controller\\MainMenuController.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\controller\\MainViewController.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\Main.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\model\\Card.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\model\\PlayField.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\service\\ImageOpener.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\service\\InformationSingleton.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\service\\SoundPlayer.java'
+'F:\\Desk\\Rep\\TiVPO\\IKBO-16-19\\prakt\\src\\main\\java\\com\\mirea\\prakt\\prakt1\\service\\WindowsManager.java'

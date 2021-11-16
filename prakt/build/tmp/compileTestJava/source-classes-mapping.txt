@@ -1,0 +1,4 @@
+com/mirea/prakt/prakt2/Muradov/CalcTests.java
+ com.mirea.prakt.prakt2.Muradov.CalcTests
+com/mirea/prakt/prakt2/Chebotarenko/ConvTest.java
+ com.mirea.prakt.prakt2.Chebotarenko.ConvTest

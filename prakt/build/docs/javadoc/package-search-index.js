@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.mirea.prakt.prakt1"},{"l":"com.mirea.prakt.prakt1.controller"},{"l":"com.mirea.prakt.prakt1.model"},{"l":"com.mirea.prakt.prakt1.service"}]
