@@ -10,54 +10,93 @@ public class Conv {
     public static final String ANSI_RESET = "\u001B[0m";
 
 
+    /**
+    * Геттер
+    */
     public int getA() {
         return a;
     }
 
+    /**
+     * Геттер
+     */
     public int getB() {
         return b;
     }
 
+    /**
+     * Геттер
+     */
     public int getCcA() {
         return ccA;
     }
 
+    /**
+     * Геттер
+     */
     public int getCcB() {
         return ccB;
     }
 
+    /**
+     * Геттер
+     */
     public String getOp() {
         return op;
     }
 
+    /**
+     * Геттер
+     */
     public int getRes() {
         return res;
     }
 
+    /**
+     * Сеттер
+     */
     public void setA(int a) {
         this.a = a;
     }
 
+    /**
+     * Сеттер
+     */
     public void setB(int b) {
         this.b = b;
     }
 
+    /**
+     * Сеттер
+     */
     public void setCcA(int ccA) {
         this.ccA = ccA;
     }
 
+    /**
+     * Сеттер
+     */
     public void setCcB(int ccB) {
         this.ccB = ccB;
     }
 
+    /**
+     * Сеттер
+     */
     public void setOp(String op) {
         this.op = op;
     }
 
+    /**
+     * Сеттер
+     */
     public void setRes(int res) {
         this.res = res;
     }
 
+    /**
+     * Вывод ключевых переменных
+     */
     @Override
     public String toString() {
         return "Calc{" +
@@ -75,6 +114,11 @@ public class Conv {
     public Conv() {
     }
 
+    /**
+     * Чтение чисел с консоли
+     * @param che То что нужно вывести в консоль
+     * @return Число
+     */
     public int getInt(String che) {
         try {
             Scanner scanner = new Scanner(System.in);

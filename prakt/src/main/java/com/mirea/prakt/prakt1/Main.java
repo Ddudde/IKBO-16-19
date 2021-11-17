@@ -7,11 +7,7 @@ import com.mirea.prakt.prakt1.service.WindowsManager;
 public class Main {
 
     public static class Start extends Application {
-        /**
-         * Точка входа.
-         * @param args аргументы
-         * @return ответ
-         */
+
         @Override
         public void start(Stage stage) {
             WindowsManager.showMainMenuWindow(stage);

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mirea.prakt.prakt2.Brusov.TestMatrix" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-11-17T20:11:54" hostname="DESKTOP-B05SD6G" time="0.207">
+  <properties/>
+  <testcase name="testGetMatrixOnRandomArr()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.071"/>
+  <testcase name="testGetMatrixOnManualArr()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.003"/>
+  <testcase name="testShowMatrix()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.011"/>
+  <testcase name="testShowMatrix2()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.003"/>
+  <testcase name="testShowMatrix3()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.01"/>
+  <testcase name="testShowMatrix4()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.005"/>
+  <testcase name="testMatrixCalcMulti1()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.007"/>
+  <testcase name="testMatrixCalcMulti3()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.005"/>
+  <testcase name="testMatrixCalcMulti4()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.003"/>
+  <testcase name="testMatrixCalcMulti5()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.004"/>
+  <testcase name="testInitMatrix1()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.011"/>
+  <testcase name="testInitMatrix2()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.024"/>
+  <testcase name="testInitMatrix3()" classname="com.mirea.prakt.prakt2.Brusov.TestMatrix" time="0.014"/>
+  <system-out><![CDATA[Matrix don't created
+Matrix don't created
+20 24 23 39 47 62 49 
+35 51 17 10 81 69 27 
+71 87 33 40 68 45 16 
+5 12 81 59 43 90 60 
+Matrix don't created
+/ by zero
+Matrix has been initialized before
+Enter n:
+?[32m0?[0m
+Enter m:
+?[32m0?[0m
+Error entering of N and M
+Enter n:
+?[32m2?[0m
+Enter m:
+?[32m2?[0m
+
+Format:
+x x x x
+Enter, please
+?[32m2 ?[0m?[32m3 ?[0m?[32m4 ?[0m?[32m5 ?[0m
+Matrix initialized
+2 3 
+4 5 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

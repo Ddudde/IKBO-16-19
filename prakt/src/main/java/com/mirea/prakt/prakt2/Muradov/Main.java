@@ -3,6 +3,7 @@ package com.mirea.prakt.prakt2.Muradov;
 public class Main {
     /**
      * Точка входа.
+     * Реализация простого консольного интерфейса.
      * @param args аргументы
      */
     public static void main(String[] args) {
