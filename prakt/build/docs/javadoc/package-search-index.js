@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mirea.prakt.prakt1"},{"l":"com.mirea.prakt.prakt1.controller"},{"l":"com.mirea.prakt.prakt1.model"},{"l":"com.mirea.prakt.prakt1.service"},{"l":"com.mirea.prakt.prakt2.Brusov"},{"l":"com.mirea.prakt.prakt2.Chebotarenko"},{"l":"com.mirea.prakt.prakt2.Muradov"}];updateSearchResults();
