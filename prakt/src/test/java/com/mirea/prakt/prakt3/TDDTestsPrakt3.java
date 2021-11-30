@@ -9,8 +9,7 @@ public class TDDTestsPrakt3 {
     @Test
     void test_zapusk()
     {
-        Main main = new Main();
-        main.main(null);
+        Main.main(null);
         assertEquals(0,0);
     }
 }
